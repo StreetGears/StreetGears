@@ -1,0 +1,1 @@
+Launcher.exe /locale:cp1141 /auth_ip:160.20.145.163 /auth_port:50000 /window /log /login_id:c39f6cfabc04e24ce2db
